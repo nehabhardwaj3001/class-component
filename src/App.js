@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import SeasonDisplay from './SeasonDisplay';
+import SeasonDisplay from './seasonComponents/SeasonDisplay';
 import Spinner from './Spinner';
 
 class App extends React.Component {
